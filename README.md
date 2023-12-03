@@ -10,4 +10,11 @@
 ![image](https://github.com/NassimaOuardine/TPHotelVille/assets/147509426/f80e0bd1-13fc-47d5-ad2a-2483afe52555)
 ![image](https://github.com/NassimaOuardine/TPHotelVille/assets/147509426/e577d0c6-87c0-489d-8c9f-84e8bc50a834)
 ## Gestion des villes 
-
+### Ajouter
+![image](https://github.com/NassimaOuardine/TPHotelVille/assets/147509426/59f077cb-971a-47e6-ac60-66c2d212ca2b)
+![image](https://github.com/NassimaOuardine/TPHotelVille/assets/147509426/05d325eb-5cd0-4296-95bd-231f4c62a205)
+### Supprimer
+![image](https://github.com/NassimaOuardine/TPHotelVille/assets/147509426/21b95e74-0e07-409f-8857-7da0a4d54d8b)
+![image](https://github.com/NassimaOuardine/TPHotelVille/assets/147509426/b57b5bf0-0bbd-4056-b454-baf60123eaa0)
+### Modifier
+![image](https://github.com/NassimaOuardine/TPHotelVille/assets/147509426/24e8ccd2-190d-42bc-8732-966b99e382d7)
